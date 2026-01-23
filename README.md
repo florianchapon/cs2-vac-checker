@@ -36,9 +36,9 @@ This extension uses the official Steam Web API. You need to provide your own API
 - If you don’t already have an API key:
   - Enter a domain name (e.g. `Chrome Extension`)
   - Accept the terms
-  - ![API Key generation](screenshots/1 - API Key.png)
+  - ![API Key generation](screenshots/1-API-Key.png)
   - Confirm using the Steam Guard mobile app
-  - ![API Key mobile confirmation](screenshots/2 - API Key.png)
+  - ![API Key mobile confirmation](screenshots/2-API-Key.png)
 
 ### 2️⃣ Configure the API key in the extension
 
@@ -47,7 +47,7 @@ This extension uses the official Steam Web API. You need to provide your own API
 - Click on the **VAC Status Checker** extension icon  
 - Paste the key into the input field
 - Click **Save**
-- ![Save API Key](screenshots/4 - API Key.png)
+- ![Save API Key](screenshots/4-API-Key.png)
 
 ---
 
@@ -59,12 +59,12 @@ This extension uses the official Steam Web API. You need to provide your own API
    - Competitive match history
 3. Choose how many previous matches you want to check
 4. Click **Load more**
-   - ![How to add matches](screenshots/5 - How To Use.png)
+   - ![How to add matches](screenshots/5-How-To-Use.png)
 5. Once the **Check ban** button becomes available, click it
 6. VAC-banned accounts will be highlighted directly on the page
-   - ![Check VAC status](screenshots/6 - How To Use.png)
+   - ![Check VAC status](screenshots/6-How-To-Use.png)
 7. Use **“Show VAC only”** to display only matches containing cheaters (highlighted in red)
-   - ![See only VAC banned](screenshots/7 - How To Use.png)
+   - ![See only VAC banned](screenshots/7-How-To-Use.png)
 
 Enjoy 🔥
 
