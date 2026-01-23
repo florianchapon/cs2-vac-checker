@@ -43,7 +43,7 @@ This extension uses the official Steam Web API. You need to provide your own API
 ### 2️⃣ Configure the API key in the extension
 
 - Copy your Steam API key
-- ![API Key copy](screenshots/3 - API Key.png)  
+- ![API Key copy](screenshots/3-API-Key.png)  
 - Click on the **VAC Status Checker** extension icon  
 - Paste the key into the input field
 - Click **Save**
